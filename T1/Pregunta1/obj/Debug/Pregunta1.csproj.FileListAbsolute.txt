@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\obj\Debug\Pregunta1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\obj\Debug\Pregunta1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\bin\Debug\Pregunta1.exe.config
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\bin\Debug\Pregunta1.exe
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\bin\Debug\Pregunta1.pdb
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\obj\Debug\Pregunta1.exe
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\obj\Debug\Pregunta1.pdb
+C:\Users\UPN\Desktop\ansh_sem5\T1\Pregunta1\obj\Debug\Pregunta1.exe.config
