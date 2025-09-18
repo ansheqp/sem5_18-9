@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregunta1", "Pregunta1\Pregunta1.csproj", "{040911F7-1C0B-4EFF-8814-3ADD70D049FF}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pregunta01", "Pregunta01\Pregunta01.pyproj", "{922319AD-5094-49E6-A42A-F48EE3037F4D}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pregunta02", "Pregunta02\Pregunta02.pyproj", "{4B5152C4-E4DB-4C0E-B7D2-A5838097F6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregunta3", "Pregunt 3\Pregunta3.csproj", "{C66165F8-DB97-43DB-96DC-5647948A92F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{922319AD-5094-49E6-A42A-F48EE3037F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B5152C4-E4DB-4C0E-B7D2-A5838097F6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4B5152C4-E4DB-4C0E-B7D2-A5838097F6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66165F8-DB97-43DB-96DC-5647948A92F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66165F8-DB97-43DB-96DC-5647948A92F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66165F8-DB97-43DB-96DC-5647948A92F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66165F8-DB97-43DB-96DC-5647948A92F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
