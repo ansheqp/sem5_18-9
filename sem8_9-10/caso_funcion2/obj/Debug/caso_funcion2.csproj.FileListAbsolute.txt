@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\bin\Debug\caso_funcion2.exe.config
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\bin\Debug\caso_funcion2.exe
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\bin\Debug\caso_funcion2.pdb
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\obj\Debug\caso_funcion2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\obj\Debug\caso_funcion2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\obj\Debug\caso_funcion2.exe
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\obj\Debug\caso_funcion2.pdb
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\caso_funcion2\obj\Debug\caso_funcion2.exe.config

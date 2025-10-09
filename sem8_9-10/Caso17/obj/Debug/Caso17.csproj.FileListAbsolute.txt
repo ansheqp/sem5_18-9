@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\bin\Debug\Caso17.exe.config
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\bin\Debug\Caso17.exe
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\bin\Debug\Caso17.pdb
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\obj\Debug\Caso17.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\obj\Debug\Caso17.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\obj\Debug\Caso17.exe
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\obj\Debug\Caso17.pdb
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso17\obj\Debug\Caso17.exe.config

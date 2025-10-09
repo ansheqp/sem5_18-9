@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\bin\Debug\Caso14.exe.config
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\bin\Debug\Caso14.exe
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\bin\Debug\Caso14.pdb
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\obj\Debug\Caso14.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\obj\Debug\Caso14.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\obj\Debug\Caso14.exe
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\obj\Debug\Caso14.pdb
+C:\Users\UPN\Desktop\ansh_sem7\Solución08\Caso14\obj\Debug\Caso14.exe.config
